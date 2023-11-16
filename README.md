@@ -1,4 +1,4 @@
-#Hello Word! Eu sou a Ju! 🦋
+# Hello Word! Eu sou a Ju! 🦋
 *(ela/dela)*
 
 🪐 Estou na área de programação desde 2020
@@ -14,12 +14,12 @@
   <img align="center" src="https://github-readme-stats-fawn-gamma.vercel.app/api?username=juliaclook&show_icons=true&theme=dark&hide_border=true" alt="Julia's github stats" /></a> | <a href="https://github.com/juliaclook/github-readme-stats"><img align="center" src="https://github-readme-stats-fawn-gamma.vercel.app/api/top-langs/?username=juliaclook&layout=compact&langs_count=6&theme=dark&hide_border=true" /></a>
 </div>
 
-#Linguagens e tecnologias que eu utilizo
+# Linguagens e tecnologias que eu utilizo
 <div align="center">
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40"/>
 </div>
 
-#Contato
+# Contato
 
 Curtiu os projetos e quer falar comigo? Você tá a um clique de conseguir!
 <div align="center">
