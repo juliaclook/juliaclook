@@ -8,9 +8,11 @@
 🪐 Atualmente, trabalho como suporte em uma empresa de sistemas
 
 🪐 Aqui, você pode encontrar todos os meus projetos desenvolvidos ao longo dos meus estudos
-
 <div align="center">
-<a href="https://github.com/juliaclook/github-readme-stats"><img align="center" src="https://github-readme-stats-fawn-gamma.vercel.app/api?username=juliaclook&show_icons=true&theme=dark&hide_border=true" alt="Julia's github stats" /></a> | <a href="https://github.com/juliaclook/github-readme-stats"><img align="center" src="https://github-readme-stats-fawn-gamma.vercel.app/api/top-langs/?username=juliaclook&layout=compact&langs_count=6&theme=dark&hide_border=true" /></a>
+
+| <a href="https://github.com/juliaclook/github-readme-stats"><img align="center" src="https://github-readme-stats-fawn-gamma.vercel.app/api?username=juliaclook&show_icons=true&theme=dark&hide_border=true" alt="Julia's github stats" /></a> | <a href="https://github.com/juliaclook/github-readme-stats"><img align="center" src="https://github-readme-stats-fawn-gamma.vercel.app/api/top-langs/?username=juliaclook&layout=compact&langs_count=6&theme=dark&hide_border=true" /></a> |
+| ------------- | ------------- |
+
 </div>
 
 # Linguagens e tecnologias que eu utilizo
