@@ -1,4 +1,4 @@
-# Hello Word! Eu sou a Ju! 🦋
+# Hello World! Eu sou a Ju! 🦋
 *(ela/dela)*
 
 🪐 Estou na área de programação desde 2020
