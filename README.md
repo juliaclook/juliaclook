@@ -5,7 +5,7 @@
 
 🪐 Moro em Santa Catarina
 
-🪐 Atualmente, trabalho como suporte em uma empresa de sistemas
+🪐 Atualmente, trabalho como analista em uma empresa de sistemas
 
 🪐 Aqui, você pode encontrar todos os meus projetos desenvolvidos ao longo dos meus estudos
 <div align="center">
