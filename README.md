@@ -4,7 +4,7 @@
 
 *(ela/dela)*
 
-Especialista de Suporte em uma empresa de sistemas · Programando desde 2020 · Santa Catarina, Brasil
+Especialista de Suporte · Programando desde 2020 · Santa Catarina, Brasil
 
 </div>
 
