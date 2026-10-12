@@ -47,12 +47,7 @@ Especialista de Suporte em uma empresa de sistemas · Programando desde 2020 · 
 ### 📊 Estatísticas
 
 <div align="center">
-  <a href="https://github.com/juliaclook/github-readme-stats">
-    <img height="165" src="https://github-readme-stats-fawn-gamma.vercel.app/api?username=juliaclook&show_icons=true&theme=dark&hide_border=true" alt="Estatísticas do GitHub da Julia"/>
-  </a>
-  <a href="https://github.com/juliaclook/github-readme-stats">
-    <img height="165" src="https://github-readme-stats-fawn-gamma.vercel.app/api/top-langs/?username=juliaclook&layout=compact&langs_count=6&theme=dark&hide_border=true" alt="Linguagens mais usadas"/>
-  </a>
+<a href="https://github.com/juliaclook/github-readme-stats"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fawn-gamma.vercel.app/api?username=juliaclook&show_icons=true&theme=github_dark&hide_border=true"><img height="150" src="https://github-readme-stats-fawn-gamma.vercel.app/api?username=juliaclook&show_icons=true&hide_border=true" alt="Estatísticas do GitHub da Julia"/></picture></a>&nbsp;&nbsp;<a href="https://github.com/juliaclook/github-readme-stats"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fawn-gamma.vercel.app/api/top-langs/?username=juliaclook&layout=compact&langs_count=6&theme=github_dark&hide_border=true"><img height="150" src="https://github-readme-stats-fawn-gamma.vercel.app/api/top-langs/?username=juliaclook&layout=compact&langs_count=6&hide_border=true" alt="Linguagens mais usadas"/></picture></a>
 </div>
 
 ### 📫 Contato
